@@ -1,0 +1,11 @@
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\bin\Debug\Virus.exe.config
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\bin\Debug\Virus.exe
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\bin\Debug\Virus.pdb
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.csproj.AssemblyReference.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.csproj.SuggestedBindingRedirects.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.Form1.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.Properties.Resources.resources
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.csproj.GenerateResource.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.csproj.CoreCompileInputs.cache
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.exe
+C:\Users\max\OneDrive\Desktop\School\Fall 2022\CPT 185\Virus\obj\Debug\Virus.pdb
